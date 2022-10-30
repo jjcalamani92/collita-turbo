@@ -17,14 +17,25 @@
     "singleQuote": true
   },
   "dependencies": {
+    "@tanstack/react-query": "4.13.4",
+    "@trpc/client": "10.0.0-proxy-beta.26",
+    "@trpc/next": "10.0.0-proxy-beta.26",
+    "@trpc/react-query": "10.0.0-proxy-beta.26",
+    "@trpc/server": "10.0.0-proxy-beta.26",
     "clsx": "1.2.1",
     "concurrently": "7.5.0",
+    "graphql": "16.6.0",
+    "graphql-request": "5.0.0",
     "next": "latest",
+    "next-auth": "4.15.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "styled-components": "6.0.0-beta.2",
     "styled-jsx": "5.1.0",
-    "use-count-up": "3.0.1"
+    "superjson": "1.11.0",
+    "sweetalert2": "11.6.4",
+    "use-count-up": "3.0.1",
+    "zod": "3.19.1"
   },
   "devDependencies": {
     "@types/node": "18.0.3",
